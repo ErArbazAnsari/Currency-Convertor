@@ -15,8 +15,8 @@ You can view a live demo of the app:
 ## Screenshots
 
 ![Currency Converter](./public/3.png)
-![Currency Converter](./public/2.png)
 ![Currency Converter](./public/1.png)
+![Currency Converter](./public/2.png)
 
 ## Technologies Used
 
